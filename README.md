@@ -1,2 +1,3 @@
-https://magomedkh.github.io/todo/
-Vanila js
+# Vanila js ToDo
+# https://magomedkh.github.io/todo/
+
